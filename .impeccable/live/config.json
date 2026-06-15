@@ -1,0 +1,11 @@
+{
+  "files": [
+    "*.html"
+  ],
+  "exclude": [
+    "node_modules/**"
+  ],
+  "insertBefore": "</body>",
+  "commentSyntax": "html",
+  "cspChecked": true
+}
